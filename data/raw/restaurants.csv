@@ -1,0 +1,201 @@
+restaurant_id,name,category,avg_restaurant_rating
+R0001,Tandon-Khosla Kitchen,Healthy Food,3.6
+R0002,Arora Ltd Diner,Fast Food,3.2
+R0003,"Ray, Kamdar and Deo Eatery",Chinese,3.9
+R0004,Merchant-Khare Cafe,Healthy Food,3.4
+R0005,"Chana, Babu and Srinivasan Cafe",Biryani,3.8
+R0006,"Mody, Edwin and Sharaf Diner",Chinese,4.8
+R0007,"Bajwa, Sha and Sheth Cafe",Chinese,3.6
+R0008,Ravi and Sons Eatery,Healthy Food,3.2
+R0009,Shetty-Agarwal Cafe,South Indian,3.7
+R0010,"Bobal, Rajan and Natarajan Kitchen",Biryani,4.8
+R0011,"Bali, Minhas and Sandhu Kitchen",Healthy Food,3.5
+R0012,Johal-Buch Kitchen,Biryani,4.3
+R0013,"Nayak, Bhakta and Varma Cafe",Biryani,3.0
+R0014,"Patla, Behl and Choudhry Eatery",Chinese,3.7
+R0015,Pau-Shroff Diner,Fast Food,3.6
+R0016,"Baria, Pau and Peri Cafe",Biryani,3.3
+R0017,Bhavsar PLC Diner,Desserts,4.1
+R0018,"Jayaraman, Devi and Natt Diner",Chinese,4.0
+R0019,Zacharia Inc Kitchen,South Indian,4.4
+R0020,"Sridhar, Kadakia and Kar Kitchen",Fast Food,3.5
+R0021,Pandit-Loke Kitchen,Desserts,3.5
+R0022,"Sampath, Malhotra and Bhagat Cafe",Desserts,3.3
+R0023,Pradhan LLC Cafe,South Indian,3.4
+R0024,Sunder-Thaker Kitchen,Fast Food,4.1
+R0025,"Das, Singhal and Wali Cafe",Chinese,3.8
+R0026,"Walia, Master and Seth Kitchen",North Indian,3.1
+R0027,"Pillai, Bhatti and Guha Eatery",Fast Food,3.5
+R0028,Chahal-Buch Kitchen,South Indian,3.5
+R0029,Gola-Mani Cafe,Desserts,4.4
+R0030,Chopra and Sons Diner,Chinese,4.4
+R0031,Choudhury-Divan Diner,Fast Food,3.3
+R0032,Dora-Jayaraman Cafe,North Indian,5.0
+R0033,"Bajaj, Memon and Saha Diner",North Indian,3.5
+R0034,"Deo, Som and Palan Cafe",Biryani,5.0
+R0035,Sawhney-Bail Kitchen,Biryani,3.8
+R0036,Gulati-Bhatnagar Diner,Healthy Food,3.1
+R0037,Kata PLC Diner,South Indian,3.7
+R0038,"Nayak, Sabharwal and Oza Eatery",Fast Food,4.3
+R0039,"Narain, Sunder and Wagle Cafe",Fast Food,4.4
+R0040,"Saxena, Shankar and Modi Kitchen",Healthy Food,4.1
+R0041,"Deo, Mohan and Garg Eatery",Desserts,3.9
+R0042,Karan-Sule Kitchen,Desserts,4.1
+R0043,Mani-Batta Diner,Healthy Food,4.2
+R0044,Pandit LLC Kitchen,Desserts,3.2
+R0045,Ganesan-Dyal Diner,Biryani,3.7
+R0046,"Wason, Mangal and Gopal Eatery",Fast Food,3.5
+R0047,Dube and Sons Kitchen,Healthy Food,4.6
+R0048,Dada Inc Cafe,Fast Food,3.9
+R0049,Date-Sastry Cafe,North Indian,5.0
+R0050,Pingle-Gour Diner,Biryani,3.8
+R0051,Banerjee Ltd Kitchen,Chinese,4.6
+R0052,Padmanabhan-Divan Diner,Biryani,4.6
+R0053,Sen-Zacharia Cafe,Healthy Food,3.3
+R0054,Walla LLC Cafe,Chinese,4.0
+R0055,Bakshi Group Diner,North Indian,4.4
+R0056,Dhillon-Shanker Eatery,Healthy Food,4.7
+R0057,Dugal-Agrawal Kitchen,South Indian,3.7
+R0058,"Tripathi, Narula and Merchant Diner",Fast Food,3.4
+R0059,Mann-Din Eatery,North Indian,4.4
+R0060,"Sathe, Nigam and Chowdhury Diner",Fast Food,4.6
+R0061,"Srinivas, Baria and Dewan Diner",Desserts,3.7
+R0062,"Dada, Morar and Bakshi Cafe",South Indian,3.2
+R0063,Kannan-Sehgal Kitchen,South Indian,4.9
+R0064,Chanda-Narain Cafe,North Indian,3.8
+R0065,Hayer PLC Cafe,South Indian,4.0
+R0066,"Kapadia, Mall and Hayre Kitchen",Chinese,4.7
+R0067,Chacko PLC Eatery,South Indian,4.4
+R0068,Chahal-Vala Eatery,Fast Food,4.5
+R0069,Hayer-Swaminathan Kitchen,Fast Food,3.4
+R0070,Vaidya-Bhalla Cafe,Healthy Food,4.1
+R0071,"Patel, Rao and Divan Kitchen",Fast Food,4.4
+R0072,"Sane, Pingle and Raju Kitchen",Healthy Food,3.5
+R0073,Arora-Mane Eatery,Fast Food,3.3
+R0074,Panchal-Morar Cafe,Chinese,5.0
+R0075,Chahal-Kale Kitchen,Healthy Food,4.0
+R0076,"Sawhney, Sagar and Savant Kitchen",Biryani,3.5
+R0077,Gade-Samra Kitchen,Desserts,5.0
+R0078,"Sachdeva, Dewan and Chadha Diner",North Indian,4.9
+R0079,Johal LLC Kitchen,Fast Food,4.1
+R0080,Vohra-Nayak Diner,South Indian,4.8
+R0081,Prashad Inc Diner,Fast Food,3.4
+R0082,Rout Ltd Cafe,South Indian,3.6
+R0083,Sachdeva-Gill Eatery,Desserts,4.4
+R0084,"Shere, Devan and Iyengar Eatery",Desserts,4.7
+R0085,Raj LLC Diner,Desserts,4.7
+R0086,"Swaminathan, Basak and Mittal Eatery",South Indian,3.8
+R0087,"Modi, Tak and Sheth Diner",Fast Food,4.8
+R0088,Bala Inc Diner,Desserts,4.7
+R0089,Lala LLC Eatery,Chinese,4.9
+R0090,"Sodhi, Dash and Mani Diner",Healthy Food,4.6
+R0091,Gola-Swamy Cafe,South Indian,4.3
+R0092,"Konda, Balakrishnan and Dar Eatery",South Indian,4.2
+R0093,Tailor-Bhavsar Diner,Fast Food,3.7
+R0094,"Pathak, Srivastava and Sarin Kitchen",South Indian,4.9
+R0095,Soni-Dar Diner,South Indian,4.9
+R0096,Vala-Badal Cafe,Desserts,3.6
+R0097,Gaba-Bhardwaj Eatery,Fast Food,3.6
+R0098,Nagarajan Group Kitchen,Desserts,4.0
+R0099,"Deshmukh, Parikh and Gade Cafe",Healthy Food,3.9
+R0100,Mahajan LLC Kitchen,Healthy Food,5.0
+R0101,Parekh-Bava Diner,Desserts,3.4
+R0102,Manne-Wagle Eatery,Healthy Food,3.0
+R0103,"Bose, Varkey and Hari Eatery",Fast Food,4.0
+R0104,"Goswami, Chandra and Ganesh Eatery",North Indian,3.4
+R0105,"Naidu, Mutti and Mitra Eatery",Desserts,3.7
+R0106,Patil-Char Diner,Chinese,4.5
+R0107,"Pandey, Dhawan and Arya Diner",Chinese,4.4
+R0108,Vasa LLC Cafe,South Indian,3.6
+R0109,Sundaram-Sabharwal Kitchen,Healthy Food,4.1
+R0110,Gaba-Chaudry Eatery,Chinese,4.0
+R0111,Dubey PLC Eatery,South Indian,4.3
+R0112,Guha PLC Cafe,North Indian,3.5
+R0113,"Vora, Wali and Comar Eatery",Fast Food,4.2
+R0114,Sharma-Bose Diner,Fast Food,5.0
+R0115,Deep Inc Kitchen,Fast Food,4.0
+R0116,Pall-Muni Kitchen,Chinese,4.8
+R0117,"Patil, Dewan and Sathe Cafe",North Indian,3.9
+R0118,"Virk, Oommen and Gera Eatery",Chinese,3.7
+R0119,"Modi, Balakrishnan and Dani Eatery",Healthy Food,4.3
+R0120,Dave Ltd Eatery,Chinese,4.3
+R0121,Karan LLC Kitchen,North Indian,4.7
+R0122,Kadakia and Sons Cafe,North Indian,3.5
+R0123,Sandal Ltd Cafe,Healthy Food,4.0
+R0124,Brahmbhatt Inc Kitchen,North Indian,4.1
+R0125,Sankar-Basak Diner,North Indian,4.5
+R0126,Chokshi Inc Kitchen,Fast Food,3.1
+R0127,"Varghese, Bhargava and Singh Diner",Healthy Food,5.0
+R0128,Kulkarni Inc Cafe,Biryani,3.9
+R0129,Mitra Ltd Diner,Biryani,3.6
+R0130,Char Inc Diner,North Indian,4.8
+R0131,"Jha, Iyengar and Goyal Cafe",Biryani,4.5
+R0132,"Panchal, Balakrishnan and Chana Diner",Biryani,4.9
+R0133,Mall PLC Cafe,North Indian,3.7
+R0134,Pandey-Dyal Kitchen,Biryani,4.1
+R0135,"Khurana, Tiwari and Bir Kitchen",Chinese,4.1
+R0136,Atwal PLC Kitchen,South Indian,5.0
+R0137,Handa LLC Diner,Healthy Food,3.2
+R0138,Yogi Inc Diner,South Indian,3.6
+R0139,"Chaudhary, Kala and Thaman Eatery",North Indian,3.4
+R0140,"Soman, Peri and Goyal Eatery",Fast Food,3.5
+R0141,Chhabra-Golla Eatery,Healthy Food,4.0
+R0142,Raghavan-Samra Kitchen,North Indian,3.7
+R0143,Varkey and Sons Eatery,Fast Food,3.8
+R0144,Chowdhury-Murthy Cafe,South Indian,4.7
+R0145,Shukla Inc Kitchen,North Indian,4.9
+R0146,"Deshpande, Tandon and Patel Diner",Healthy Food,3.1
+R0147,"Mani, Baria and Butala Cafe",Healthy Food,3.4
+R0148,Tak-D’Alia Kitchen,Desserts,4.3
+R0149,Mander-Shan Kitchen,Chinese,3.7
+R0150,"Muni, Sawhney and Kara Kitchen",Biryani,3.5
+R0151,"Reddy, Mannan and Sangha Diner",Fast Food,3.6
+R0152,Boase Group Diner,Desserts,3.6
+R0153,"Pillai, Gola and Arya Cafe",Biryani,4.7
+R0154,"Swamy, Cheema and Randhawa Eatery",Biryani,3.3
+R0155,Virk-Chada Cafe,North Indian,4.4
+R0156,Dhar Group Kitchen,Biryani,4.1
+R0157,Chaudry-Ganguly Kitchen,Chinese,3.6
+R0158,Patla and Sons Cafe,Healthy Food,3.8
+R0159,Iyer-Raval Eatery,Desserts,3.5
+R0160,Kaul Group Kitchen,Biryani,4.2
+R0161,"Tata, Mallick and Mahajan Cafe",North Indian,3.2
+R0162,"Ratta, Parekh and Soni Kitchen",Chinese,3.0
+R0163,"Ravel, Sundaram and Vaidya Diner",South Indian,4.3
+R0164,Din-Sha Eatery,Healthy Food,3.4
+R0165,Das LLC Diner,Healthy Food,3.1
+R0166,Tank-Kashyap Diner,Desserts,3.8
+R0167,"Desai, Balan and Chaudhary Cafe",Healthy Food,3.1
+R0168,"Bera, Bir and Tara Kitchen",Biryani,4.8
+R0169,"Bala, Gola and Raja Eatery",North Indian,3.1
+R0170,"Narain, Dua and Mitter Kitchen",Healthy Food,4.2
+R0171,"Char, Bose and Venkatesh Kitchen",Healthy Food,3.9
+R0172,Shukla-Jaggi Eatery,South Indian,4.3
+R0173,Tank-Swaminathan Diner,South Indian,3.7
+R0174,"Lal, Oza and Zachariah Cafe",Fast Food,3.3
+R0175,"Badami, Balay and Sani Eatery",Chinese,5.0
+R0176,Rajagopal Group Diner,Biryani,4.7
+R0177,Puri-Savant Cafe,Healthy Food,4.7
+R0178,Banik-Bali Eatery,Healthy Food,3.5
+R0179,Mitter Ltd Cafe,North Indian,3.1
+R0180,Swamy Group Eatery,Fast Food,3.6
+R0181,Muni Ltd Diner,Chinese,4.1
+R0182,Sura-Choudhary Kitchen,Fast Food,3.7
+R0183,"Swaminathan, Zacharia and Singhal Diner",Desserts,4.7
+R0184,Dugar-Toor Eatery,Chinese,3.5
+R0185,Raman LLC Kitchen,Healthy Food,4.9
+R0186,Purohit-Pandit Cafe,Healthy Food,3.9
+R0187,Nagi-Bhat Cafe,Chinese,4.7
+R0188,Bath and Sons Kitchen,Healthy Food,3.4
+R0189,Palla-Bala Diner,Biryani,3.8
+R0190,"Om, Rai and Chatterjee Cafe",Chinese,4.4
+R0191,Pai-Parikh Diner,Fast Food,3.3
+R0192,Panchal-Bhalla Eatery,Chinese,3.3
+R0193,"Konda, Kota and Keer Eatery",Healthy Food,4.9
+R0194,"Muni, Chad and Bhatti Kitchen",Biryani,4.4
+R0195,Contractor-Nazareth Kitchen,Biryani,3.1
+R0196,Bahri PLC Eatery,Desserts,3.8
+R0197,Barad-Sharma Cafe,Fast Food,3.9
+R0198,"Sami, Varma and Sama Cafe",South Indian,4.5
+R0199,Bahri-Singh Eatery,South Indian,3.5
+R0200,"Bains, Nadig and Purohit Diner",Chinese,3.4
